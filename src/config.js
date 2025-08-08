@@ -7,9 +7,10 @@ const MAMMOUTH_API_URL = 'https://mammouth.ai/api/models/llms'
 const MODEL_MAPPING = {
   'claude-sonnet-4-20250514': 'anthropic-claude-4-2025-05-14',
   'gpt-4o-mini': 'openai-gpt-4o-mini',
-  'gemini-2.5-pro-preview-05-06': 'google-gemini-2.5-pro',
-  'grok-3': 'xai-grok-3-beta',
-  'o4-mini': 'openai-o4-mini',
+  'gemini-2.5-pro': 'google-gemini-2.5-pro',
+  'grok-4': 'xai-grok-4-0709',
+  'gpt-5-thinking': 'openai-gpt-5-thinking',
+  'gpt-5': 'openai-gpt-5',
 }
 
 const UNLIMITED_MODELS = [

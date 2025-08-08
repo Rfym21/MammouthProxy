@@ -1,6 +1,6 @@
 {
   "name": "mammouth-proxy",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/server.js",
