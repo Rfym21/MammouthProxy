@@ -11,6 +11,7 @@ const MODEL_MAPPING = {
   'grok-4': 'xai-grok-4-0709',
   'gpt-5-thinking': 'openai-gpt-5-thinking',
   'gpt-5': 'openai-gpt-5',
+  'gpt-5-mini': 'openai-gpt-5-mini',
 }
 
 const UNLIMITED_MODELS = [
